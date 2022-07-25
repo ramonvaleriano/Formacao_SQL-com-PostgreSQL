@@ -1,0 +1,2 @@
+SELECT * FROM aluno
+    WHERE cpf IS NOT NULL;

@@ -1,0 +1,2 @@
+SELECT * FROM aluno
+    WHERE idade BETWEEN 3 AND 31;
