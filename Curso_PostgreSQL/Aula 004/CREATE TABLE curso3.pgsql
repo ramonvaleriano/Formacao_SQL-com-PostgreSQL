@@ -1,0 +1,4 @@
+CREATE TABLE curso(
+    id INTEGER NOT NULL UNIQUE,
+    nome VARCHAR(255) NOT NULL
+)
