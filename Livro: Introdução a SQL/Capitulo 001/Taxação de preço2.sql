@@ -1,0 +1,7 @@
+SELECT 
+	PRODUCT_ID AS 'ID',
+	DESCRIPTION AS 'Descricao',
+	PRICE AS 'Valor',
+	PRICE * 1.07 AS Valor_taxado
+FROM 
+	PRODUCT;

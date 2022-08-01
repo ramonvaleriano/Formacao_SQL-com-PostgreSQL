@@ -1,0 +1,6 @@
+SELECT 
+	PRODUCT_ID AS ID,
+	DESCRIPTION AS 'Descrição',
+	PRICE AS 'Valor',
+	PRICE * 1.07 AS 'Preço'
+FROM PRODUCT;
