@@ -1,0 +1,4 @@
+SELECT 
+	* 
+FROM STATION_DATA
+WHERE month IN (9, 10, 11);

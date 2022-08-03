@@ -1,0 +1,4 @@
+SELECT 
+	*
+FROM STATION_DATA
+WHERE month NOT IN (9, 10, 11);

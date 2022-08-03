@@ -1,0 +1,3 @@
+SELECT *
+	FROM STATION_DATA
+	WHERE year >= 2005 AND year <= 2010;
