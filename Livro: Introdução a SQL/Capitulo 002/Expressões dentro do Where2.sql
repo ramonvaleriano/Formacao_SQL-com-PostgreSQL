@@ -1,4 +1,4 @@
 SELECT 
 	*
 FROM STATION_DATA
-WHERE month % 3 = 0;
+WHERE month % 2 = 0;
