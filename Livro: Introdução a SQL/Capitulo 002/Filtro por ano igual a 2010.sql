@@ -1,0 +1,4 @@
+SELECT 
+	*
+	FROM STATION_DATA
+	WHERE year = 2010;
