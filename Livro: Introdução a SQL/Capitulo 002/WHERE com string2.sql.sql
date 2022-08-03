@@ -1,0 +1,4 @@
+SELECT 
+	*
+FROM STATION_DATA sd 
+WHERE report_code IN ('39537B', 'EF616A');
