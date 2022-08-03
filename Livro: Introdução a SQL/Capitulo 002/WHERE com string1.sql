@@ -1,0 +1,4 @@
+SELECT 
+	*
+FROM STATION_DATA sd 
+WHERE report_code  = '39537B';
