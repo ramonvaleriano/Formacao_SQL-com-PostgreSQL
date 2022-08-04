@@ -1,0 +1,4 @@
+SELECT 
+	*
+FROM STATION_DATA sd 
+WHERE NOT tornado AND NOT hail;
