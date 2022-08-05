@@ -1,0 +1,4 @@
+SELECT 
+	*
+FROM STATION_DATA
+WHERE snow_depth IS NULL;
