@@ -1,0 +1,4 @@
+SELECT 
+	COUNT(*)
+FROM STATION_DATA sd
+WHERE tornado = 1;

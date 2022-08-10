@@ -1,0 +1,3 @@
+SELECT 
+	COUNT(*) AS 'Todos_os_Dados'
+FROM STATION_DATA sd;
