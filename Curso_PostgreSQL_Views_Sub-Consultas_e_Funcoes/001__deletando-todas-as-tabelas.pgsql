@@ -1,0 +1,1 @@
+DROP TABLE aluno_aluno, aluno, aluno_curso, curso;
