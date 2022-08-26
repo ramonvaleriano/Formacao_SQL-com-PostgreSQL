@@ -1,0 +1,1 @@
+SELECT * FROM vw_cursos_por_categoria;
