@@ -1,0 +1,1 @@
+SELECT to_char(NOW(), 'DD/MM/YYYY');
