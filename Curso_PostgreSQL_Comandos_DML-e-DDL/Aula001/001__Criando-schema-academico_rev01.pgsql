@@ -1,0 +1,1 @@
+CREATE SCHEMA academico_rev01;
