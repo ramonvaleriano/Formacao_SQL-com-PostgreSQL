@@ -1,0 +1,51 @@
+SELECT 
+    * 
+FROM academico.aluno;
+
+INSERT INTO academico.aluno (primeiro_nome, ultimo_nome, data_nascimento)
+VALUES
+(
+    'Ramon',
+    'Valeriano',
+    '1989-09-14'
+),
+(
+    'Milla',
+    'Frigida',
+    '1990-09-30'
+),
+(
+    'Diego',
+    'Doidera',
+    '1991-10-30'
+),
+(
+    'Gabriela',
+    'Safadona',
+    '1990-09-30'
+),
+(
+    'Ruan',
+    'Zito',
+    '1988-07-03'
+),
+(
+    'Vinicius',
+    'Dias',
+    '1993-02-28'
+),
+(
+    'Patricia',
+    'Freitas',
+    '1989-08-27'
+),
+(
+    'Diogo',
+    'Oliveira',
+    '1993-09-29'
+),
+(
+    'Milla',
+    'Seca',
+    '1993-10-30'
+);
